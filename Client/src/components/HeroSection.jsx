@@ -11,7 +11,7 @@ function HeroSection() {
                 {/* <p>/ your dream job today!</p> */}
 
                 <h1 className='sm:text-4xl lg:text-5xl font-bold'>Search, Apply & <br /> Get Your <span className='text-[#6A38C2] '>Dream Jobs</span></h1>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium harum officiis id at impedit.</p>
+                <p>Connecting talent with opportunity — your career journey starts here.</p>
                 <div className='flex sm:w-[40%] shadow-lg border border-gray-200 pl-3 rounded-full items-center gap-4 mx-auto'>
                     <input type="text"
                         placeholder='Find your dream jobs'
